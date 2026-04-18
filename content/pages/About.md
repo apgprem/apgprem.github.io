@@ -31,8 +31,8 @@ My ambitious 10-year mission is to establish **Tamil Nadu as the GenAI Hub of In
 
 ## Links
 
-- [LinkedIn](https://www.linkedin.com/in/raja-csp-raman/)
-- [GitHub](https://github.com/rajacsp)
+- [LinkedIn](www.linkedin.com/in/premkumargunasekaran-bengaluru)
+- [GitHub](https://github.com/apgprem)
 - [PyPI](https://pypi.org/user/rajacsp/)
 - [Google Scholar](https://scholar.google.com/citations?user=rajacsp)
 - [Kactii](https://app.kactii.com/c/raja)
